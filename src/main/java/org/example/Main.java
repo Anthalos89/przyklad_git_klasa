@@ -22,5 +22,6 @@ public class Main {
         Osoba osoba3 = new Osoba("Alicja", "Bark");
         System.out.println(osoba3.getInfo());
         System.out.println("Lolipop");
+        System.out.println("Kop");
     }
 }
